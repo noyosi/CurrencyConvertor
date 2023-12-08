@@ -1,3 +1,3 @@
-# CurrencyConverter
+# CurrencyConvertor
 
-Currency Converter App in Flutter
+Currency Convertor App in Flutter
